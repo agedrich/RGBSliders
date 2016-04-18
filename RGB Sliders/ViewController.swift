@@ -9,17 +9,16 @@
 import UIKit
 
 class ViewController: UIViewController {
-    
+   
     @IBOutlet weak var redSlider: UISlider!
-    @IBOutlet weak var greenSlider: UISlider!
     @IBOutlet weak var blueSlider: UISlider!
+    @IBOutlet weak var greenSlider: UISlider!
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        
         updateBackgroundColor()
-    }
+            }
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
@@ -30,9 +29,9 @@ class ViewController: UIViewController {
         let red = CGFloat(redSlider.value)
         let green = CGFloat(greenSlider.value)
         let blue = CGFloat(blueSlider.value)
-        
         view.backgroundColor = UIColor(red: red, green: green, blue: blue, alpha: 1)
     }
     
+       
 }
 // add comment ;jdf;sakd 
