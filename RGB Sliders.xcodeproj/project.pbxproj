@@ -484,6 +484,7 @@
 				E832B66F1CBEC98F001A7D87 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E832B6701CBEC98F001A7D87 /* Build configuration list for PBXNativeTarget "RGB SlidersTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +493,7 @@
 				E832B6721CBEC98F001A7D87 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E832B6731CBEC98F001A7D87 /* Build configuration list for PBXNativeTarget "RGB SlidersUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +502,7 @@
 				E832B6751CBEC98F001A7D87 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

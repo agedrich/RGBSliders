@@ -45,7 +45,7 @@
                                 <rect key="frame" x="138" y="331" width="38" height="30"/>
                                 <state key="normal" title="Open"/>
                                 <connections>
-                                    <segue destination="Ins-D7-ZZy" kind="show" id="nNv-np-ziG"/>
+                                    <segue destination="Ins-D7-ZZy" kind="show" identifier="openColor" id="nNv-np-ziG"/>
                                 </connections>
                             </button>
                         </subviews>
